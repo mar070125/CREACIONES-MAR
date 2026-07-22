@@ -19,7 +19,7 @@ justify-content:space-between;
 padding:80px;
 position:relative;
 overflow:hidden;
-background:#e3eaf5;
+background:#fedde4;
 }
 
 .contenido{
@@ -28,7 +28,7 @@ animation:aparece 1.2s ease;
 }
 
 .contenido h3{
-color:#5a85bb;
+color:#f05688;
 font-size:22px;
 font-family:'Great Vibes',cursive;
 }
@@ -36,14 +36,14 @@ font-family:'Great Vibes',cursive;
 .contenido h1{
 font-size:65px;
 line-height:65px;
-color:#6e8484;
+color:#f05688;
 margin:20px 0;
 font-weight:800;
 }
 
 .contenido p{
 font-size:20px;
-color:#777;
+color:#f35588;
 }
 
 .imagen{
@@ -103,7 +103,7 @@ align-items:center;
 justify-content:center;
 gap:70px;
 padding:80px 10%;
-background:#a1c5c6;
+background:#fcefee;
 animation:aparece 1.2s ease;
 }
 
@@ -117,7 +117,7 @@ max-width:550px;
 
 .texto h2{
 font-size:40px;
-color:#6e8484;
+color:#f35588;
 margin-bottom:20px;
 text-align: center;
 }
@@ -127,12 +127,13 @@ font-size:18px;
 line-height:30px;
 margin-bottom:20px;
 text-align: justify;
+color:#444;
 }
 
 /* PASOS */
 .pasos{
 padding:80px 10%;
-background:#e3eaf5;
+background:#fedde4;
 animation:aparece 1.2s ease;
 }
 
@@ -140,7 +141,7 @@ animation:aparece 1.2s ease;
 text-align:center;
 font-size:40px;
 margin-bottom:10px;
-color:#5a85bb;
+color:#f35588;
 }
 .pasos p{
 font-size:18px;
@@ -154,7 +155,7 @@ text-align: justify;
 display:grid;
 grid-template-columns:repeat(3,1fr);
 gap:30px;
-color:#5a85bb;
+color:#f35588;
 }
 .contenedor-pasos p{
 color: #444;
@@ -181,7 +182,7 @@ transform:translateY(-10px) scale(1.03);
 display:flex;
 gap:40px;
 padding:90px 10%;
-background:#a1c5c6;
+background:#fcefee;
 animation:aparece 1.2s ease;
 }
 
@@ -205,7 +206,7 @@ margin-bottom:20px;
 }
 
 .card h2{
-color:#6e8484;
+color:#f35588;
 margin-bottom:20px;
 }
 
@@ -213,7 +214,7 @@ margin-bottom:20px;
 .final{
 margin:80px auto;
 width:80%;
-background:#5a85bb;
+background:#f05688;
 padding:60px;
 border-radius:30px;
 text-align:center;
